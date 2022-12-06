@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  font-family: 'Quicksand', sans-serif;
+}
+.header{
+  background-color: #cce1f3;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.hero{
+  background-color: #cce1f3;
+}
+.Our_team{
+  background-color: #f8f9fc;
+}
+a{
+  text-decoration: none;
+  color: #ffff;
+}
+ul li{
+  list-style: none;
+}
